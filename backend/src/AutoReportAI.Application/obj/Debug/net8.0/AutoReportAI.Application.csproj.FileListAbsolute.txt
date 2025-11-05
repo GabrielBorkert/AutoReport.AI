@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Application\bin\Debug\net8.0\AutoReportAI.Application.deps.json
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Application\bin\Debug\net8.0\AutoReportAI.Application.dll
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Application\bin\Debug\net8.0\AutoReportAI.Application.pdb
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Application\bin\Debug\net8.0\AutoReportAI.Domain.dll
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Application\bin\Debug\net8.0\AutoReportAI.Domain.pdb
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Application\obj\Debug\net8.0\AutoReportAI.Application.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Application\obj\Debug\net8.0\AutoReportAI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Application\obj\Debug\net8.0\AutoReportAI.Application.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Application\obj\Debug\net8.0\AutoReportAI.Application.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Application\obj\Debug\net8.0\AutoReportAI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Application\obj\Debug\net8.0\AutoRepo.597B8616.Up2Date
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Application\obj\Debug\net8.0\AutoReportAI.Application.dll
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Application\obj\Debug\net8.0\refint\AutoReportAI.Application.dll
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Application\obj\Debug\net8.0\AutoReportAI.Application.pdb
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Application\obj\Debug\net8.0\ref\AutoReportAI.Application.dll

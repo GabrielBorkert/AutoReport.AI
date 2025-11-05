@@ -1,0 +1,11 @@
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Domain\bin\Debug\net8.0\AutoReportAI.Domain.deps.json
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Domain\bin\Debug\net8.0\AutoReportAI.Domain.dll
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Domain\bin\Debug\net8.0\AutoReportAI.Domain.pdb
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Domain\obj\Debug\net8.0\AutoReportAI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Domain\obj\Debug\net8.0\AutoReportAI.Domain.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Domain\obj\Debug\net8.0\AutoReportAI.Domain.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Domain\obj\Debug\net8.0\AutoReportAI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Domain\obj\Debug\net8.0\AutoReportAI.Domain.dll
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Domain\obj\Debug\net8.0\refint\AutoReportAI.Domain.dll
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Domain\obj\Debug\net8.0\AutoReportAI.Domain.pdb
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Domain\obj\Debug\net8.0\ref\AutoReportAI.Domain.dll
