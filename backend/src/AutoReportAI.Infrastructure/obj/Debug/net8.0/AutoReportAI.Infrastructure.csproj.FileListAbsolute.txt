@@ -1,0 +1,17 @@
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\bin\Debug\net8.0\AutoReportAI.Infrastructure.deps.json
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\bin\Debug\net8.0\AutoReportAI.Infrastructure.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\bin\Debug\net8.0\AutoReportAI.Infrastructure.dll
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\bin\Debug\net8.0\AutoReportAI.Infrastructure.pdb
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\bin\Debug\net8.0\AutoReportAI.Domain.dll
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\bin\Debug\net8.0\AutoReportAI.Domain.pdb
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\obj\Debug\net8.0\AutoReportAI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\obj\Debug\net8.0\AutoReportAI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\obj\Debug\net8.0\AutoReportAI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\obj\Debug\net8.0\AutoReportAI.Infrastructure.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\obj\Debug\net8.0\AutoReportAI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\obj\Debug\net8.0\AutoRepo.4BCEF093.Up2Date
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\obj\Debug\net8.0\AutoReportAI.Infrastructure.dll
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\obj\Debug\net8.0\refint\AutoReportAI.Infrastructure.dll
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\obj\Debug\net8.0\AutoReportAI.Infrastructure.pdb
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\obj\Debug\net8.0\AutoReportAI.Infrastructure.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Projetos\AutoReport.AI\backend\src\AutoReportAI.Infrastructure\obj\Debug\net8.0\ref\AutoReportAI.Infrastructure.dll
